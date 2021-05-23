@@ -1,0 +1,91 @@
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+                         _                 _      _                       
+                        | |               | |    (_)                      
+       _ __ ___   _   _ | |_  __ _  _ __  | |_    _  _ __    ___          
+      | '_ ` _ \ | | | || __|/ _` || '_ \ | __|  | || '_ \  / __|         
+      | | | | | || |_| || |_| (_| || | | || |_   | || | | || (__  _       
+      |_| |_| |_| \__,_| \__|\__,_||_| |_| \__|  |_||_| |_| \___|(_)      
+                                                                          
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+                                                                          
+                                                                          
+                                                  RR                      
+                                           RRRRRRRSRR RR                  
+                                             SRRRRRRRRRS                  
+                                          tRRRRRRRRRRS RRRRRR             
+                                        RRRRRRRRRRRR  RRRR  RR            
+                                       RRRRRRRRRRRRR  RRRR  RR  Rt        
+                  RRRRRRRRRRRS        sRRRRRRRRRRRRRR RRRRRRRR  RRR       
+               RRRRRRRRRRRRRRRRRRRSRRRRRRRRRRRRRRRRRRR RRRRRRtCR sRR      
+            RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRC SR RRRRRRRRR     
+          tRRRRRRRRRRRRRRRRRRRRRRRRRRRRRC      RRRRRRRRRR  cRRRRRRRRRR    
+         RRRRRRRRRRRRRRRRRRRRRRRRRRR            RRRRRRRRRRRS RRRRRRRRRR   
+        RRRRRRRRRRRRRRRRRRRRRRRR                RRRRRRRRRR tR   RRRRRRR   
+       RRRRRRRRRRRRRRRRRRRRRRR                   tRRRRRRRR  RRRR RRRRRR   
+      RRRRRRRRRRRRRRRRRRRRRRR                     RRRRRRRR  t     RRRRR   
+     RRRRRRRRRRRRRRRRRRRRRRR                       RRRRRR          RRRt   
+    RRRRRRRRRRRRRRRRR RRRRR                         SRRRt          RRR    
+   CRRRRc RRRRRR RRS  RRRRS           RRR   cRRRRR                 RR     
+   RRRs   RRR         RRRR           RR          RRR               R      
+   Rt     RR          RRRRc          RR  S        RRRt                    
+   R                  RRRRR          RRRRRRR       RRRS                   
+                      RRRRRS          RRRRRRC      RRRRS                  
+                      RRRRRR           RRRRR       RRRRR                  
+                      RRRRRRR           SRc        RRRRR                  
+                       RRRRRRR                     RRRRRR                 
+                       sRRRRRRR                    RRRRRR                 
+                        tRRRRRRR                   RRRRRS                 
+                         RRRRRRRR                 sRRRRR                  
+                          SRRRRRRRR               RRRRRR                  
+                           SRRRRRRRR             RRRRRR                   
+                             RRRRRRRRRRRRRR   SRRRRR                      
+                               RRRRRRRRRRRRRRRRRRt                        
+                                 sRRRRRsSC                                
+                                                                          
+
+                                                                          
+ -------------------------------------------------------------------------
+                           -=- SHEEP BLASTER X -=-
+                               v1.0 (2001-05-20)
+ -------------------------------------------------------------------------
+                                                                          
+  presented at the FarWest 3 compo for the 100kB "foot-and-mouth disease" Game compo
+  ( may 11-12-13, 2001, France )                                       
+                                                                          
+                                                                          
+                                                                          
+  Graphs: Danube (sheep sprites, background)
+  Graphs: Fra (title, gameover, hands)
+  Music:  <no sound>                                                   
+  Code:   Mars                                                            
+
+                                                                          
+  Commands:
+
+  - left mouse button to launch a cybersheep-bomb-x-alpha-6.81-with-neutrons
+
+  - left mouse button to give the cybersheep a target
+
+  - right mouse button to make it explode
+
+  - the cybersheep will explode anyway after 10 seconds or if it touches another sheep
+
+  - escape to quit at anytime                                                                          
+
+
+
+                                                                          
+  Release notes:
+
+  - You need a Windows 9x/2K OS with a bit if memory and a 3D accelerated GFX card with openGL support
+
+  - the file provided with this .nfo is the final (or so i think) version which replaces the crappy party version
+
+  - As usual this prod is nonsense...just burn those sheep with foot-and-mouth disease !!!
+
+                                                                          
+  We hope you'll like it !                                                                          
+ -------------------------------------------------------------------------
+ -------------------------------------------------------------------------
